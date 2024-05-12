@@ -16,3 +16,8 @@
   <li><b>final_df.csv</b>: This dataset include all the necessary information which has been derived from 'fhvhv_tripdata_2023-02.parquet' file which is being used to create predictive model.</li>
 </ol>
 </p>
+
+#### 1. DataCleaning_&_EDA.ipynb: 
+<p>
+This file involves two main processes: Data Cleaning and Exploratory Data Analysis (EDA). Data Cleaning includes tasks like handling missing values, ensuring data integrity, detecting and addressing outliers, standardizing data formats, and transforming data into a more suitable format for analysis. On the other hand, EDA entails summarizing key statistics, visualizing data patterns and relationships through graphs, analyzing feature correlations, examining variable distributions, and segmenting data for deeper insights.
+</p>
