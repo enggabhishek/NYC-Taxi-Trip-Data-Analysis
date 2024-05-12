@@ -21,3 +21,13 @@
 <p>
 This file involves two main processes: Data Cleaning and Exploratory Data Analysis (EDA). Data Cleaning includes tasks like handling missing values, ensuring data integrity, detecting and addressing outliers, standardizing data formats, and transforming data into a more suitable format for analysis. On the other hand, EDA entails summarizing key statistics, visualizing data patterns and relationships through graphs, analyzing feature correlations, examining variable distributions, and segmenting data for deeper insights.
 </p>
+
+### 2. PredictiveModel.ipynb: 
+<p>
+This file includes predictive models to predict Taxi fares using trip distance, PULocationID, DOLocationID, Weekday number and Pickup Hour as the feature elements.
+</p>
+
+### 3. Final_Workbook.twb
+<p> 
+  It contains interactive dashboards showcasing high-tip zones, fee-generating zones, and surcharge-trip duration using Tableau application.
+</p>
