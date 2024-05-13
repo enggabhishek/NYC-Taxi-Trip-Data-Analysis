@@ -22,6 +22,12 @@
 This file involves two main processes: Data Cleaning and Exploratory Data Analysis (EDA). Data Cleaning includes tasks like handling missing values, ensuring data integrity, detecting and addressing outliers, standardizing data formats, and transforming data into a more suitable format for analysis. On the other hand, EDA entails summarizing key statistics, visualizing data patterns and relationships through graphs, analyzing feature correlations, examining variable distributions, and segmenting data for deeper insights.
 </p>
 
+##### Dashboard 1
+![image](https://github.com/enggabhishek/NYC-Taxi-Trip-Data-Analysis/assets/29338852/6305139c-27ea-49ce-98c5-435d027bcedc)
+
+##### Dashboard 2
+![image](https://github.com/enggabhishek/NYC-Taxi-Trip-Data-Analysis/assets/29338852/da3fe337-79d5-4b25-a59f-ca8acc184917)
+
 ### 2. PredictiveModel.ipynb: 
 <p>
 This file includes predictive models to predict Taxi fares using trip distance, PULocationID, DOLocationID, Weekday number and Pickup Hour as the feature elements.
